@@ -4,7 +4,8 @@
 
 **<h2>Key Features:</h2>**
 
-•	**Data Transparency:** Enabled data-informed decisions by ensuring transparency across the organization through the integration of various data sources and effective data visualization techniques.
+•	**Data Transparency:**
+<p>o  Enabled data-informed decisions by ensuring transparency across the organization through the integration of various data sources and effective data visualization techniques.</p>
 
 •	**Data Integration and Transformation:**
 
@@ -19,7 +20,6 @@
 <p>o	Designed and implemented critical KPIs such as Net Sales, Gross Margin %, Net Profit %, Net Error, Absolute Error, and Forecast Accuracy to effectively track and analyze business performance.</p>
 
 •	**Financial and Sales Analysis:**
-
 <p>o	Created detailed financial and sales views, including profit and loss statements, net sales performance tracking, and customer/product performance analysis.</p>
 
 •	**Advanced Data Modeling and DAX:**
@@ -32,5 +32,6 @@
 
 •	**Data Validation and Publication:**
 
-<p>o	Applied robust data validation methods and successfully published the reports to Power BI services, ensuring the accuracy and reliability of data insights.
-This project exemplifies a thorough approach to leveraging Power BI for large-scale data analysis and business intelligence, contributing significantly to the strategic decision-making process</p>
+<p>o	Applied robust data validation methods and successfully published the reports to Power BI services, ensuring the accuracy and reliability of data insights.</p>
+
+<p>This project exemplifies a thorough approach to leveraging Power BI for large-scale data analysis and business intelligence, contributing significantly to the strategic decision-making process.</p>
