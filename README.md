@@ -1,5 +1,9 @@
 <h1 align="center">Business lnsights 360</h1> 
 
+<h3 align="left">Checkout my interactive dashboard here:</h3>
+<p align="left">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiY2Y4OTcyNTgtODhmYi00OWViLThmNTQtYTIzYTg1ZTc0YWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" target="blank"><img align="center" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="prashant parekh" height="30" width="40" /></a></p>
+
 **<h2>Checkout my interactive dashboard here: https://app.powerbi.com/view?r=eyJrIjoiY2Y4OTcyNTgtODhmYi00OWViLThmNTQtYTIzYTg1ZTc0YWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 </h2>**
 
 <p>This project focuses on the development of a comprehensive Power BI dashboard for AtliQ Hardware, a global computer hardware supplier. The dashboard serves as a central hub for various business analytics and insights, incorporating multiple views and Key Performance Indicators (KPIs) to support informed decision-making.</p>
